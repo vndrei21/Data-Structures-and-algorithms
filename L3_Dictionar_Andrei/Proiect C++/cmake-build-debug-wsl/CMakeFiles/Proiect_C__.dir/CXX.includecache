@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/Andrei/Desktop/Facultate/SEM 2/Structuri de date si algoritmi/L3/Proiect C++/DO.h
+utility
+-
+
+/mnt/c/Users/Andrei/Desktop/Facultate/SEM 2/Structuri de date si algoritmi/L3/Proiect C++/Iterator.h
+DO.h
+/mnt/c/Users/Andrei/Desktop/Facultate/SEM 2/Structuri de date si algoritmi/L3/Proiect C++/DO.h
+
+/mnt/c/Users/Andrei/Desktop/Facultate/SEM 2/Structuri de date si algoritmi/L3/Proiect C++/TestExtins.cpp
+exception
+-
+assert.h
+-
+algorithm
+-
+vector
+-
+Iterator.h
+/mnt/c/Users/Andrei/Desktop/Facultate/SEM 2/Structuri de date si algoritmi/L3/Proiect C++/Iterator.h
+DO.h
+/mnt/c/Users/Andrei/Desktop/Facultate/SEM 2/Structuri de date si algoritmi/L3/Proiect C++/DO.h
+TestExtins.h
+/mnt/c/Users/Andrei/Desktop/Facultate/SEM 2/Structuri de date si algoritmi/L3/Proiect C++/TestExtins.h
+iostream
+-
+
+/mnt/c/Users/Andrei/Desktop/Facultate/SEM 2/Structuri de date si algoritmi/L3/Proiect C++/TestExtins.h
+
