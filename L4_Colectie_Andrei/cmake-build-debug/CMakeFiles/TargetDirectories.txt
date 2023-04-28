@@ -1,0 +1,3 @@
+C:/Users/Andrei/Desktop/Facultate/Colectie/cmake-build-debug/CMakeFiles/Colectie.dir
+C:/Users/Andrei/Desktop/Facultate/Colectie/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Andrei/Desktop/Facultate/Colectie/cmake-build-debug/CMakeFiles/rebuild_cache.dir
