@@ -1,0 +1,3 @@
+C:/Users/Andrei/Desktop/Facultate/SDA/L7 Matrice-Andrei/cmake-build-debug/CMakeFiles/L7_Matrice_Andrei.dir
+C:/Users/Andrei/Desktop/Facultate/SDA/L7 Matrice-Andrei/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Andrei/Desktop/Facultate/SDA/L7 Matrice-Andrei/cmake-build-debug/CMakeFiles/rebuild_cache.dir
